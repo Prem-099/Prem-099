@@ -91,10 +91,3 @@
 
 ---
 
-<p align="center">
-  <b>👀 Visitor Count</b><br /><br />
-  <img src="https://profile-counter.glitch.me/Prem-099/count.svg" />
-</p>
-
-
----
