@@ -2,10 +2,6 @@
 <h3 align="center">CS Undergrad | Full-Stack Developer | Problem Solver 🚀</h3>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Always+learning+something+new.;Passionate+about+building+with+purpose.;Coding+real-world+solutions+every+day." />
-</p>
-
 
 
 ---
