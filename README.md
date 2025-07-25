@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🎓 CS student passionate about **web dev**, **cloud**, and **CyberSecurity**.
+- 🎓 CS student passionate about **web dev**, **cloud**, **CyberSecurity** and **System Design**.
 - 🛠️ Currently learning **React**, **Django**, and **Spring Boot**.
 - 💡 Believe in *“learning by building”* – code is my playground.
 - 📈 Improving through LeetCode, Codeforces, and real-world projects.
