@@ -63,7 +63,7 @@
 ---
 
 ### 📊 GitHub Stats
-
+![Profile view counter](https://komarev.com/ghpvc/?username=Prem-099)
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prem-099&show_icons=true&theme=tokyonight&rank_icon=percentile&hide=stars&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-099&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
@@ -87,4 +87,5 @@
 </p>
 
 ---
+
 
