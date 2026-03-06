@@ -22,9 +22,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=c" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="50"/>&nbsp;&nbsp;
 </p>
 
 
@@ -39,7 +39,6 @@
 
 #### 🛠️ Backend & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flask" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,7 +56,7 @@
 |-----------|----------------|------------------------------|-----------|
 | **Job-Sniper** | Displays Job related data by scraping from multiple websites and API . | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)&nbsp;![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)&nbsp;![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat) | [Repo](https://github.com/Prem-099/Job-Sniper) |
 | **Font-Finder** | Extract text from images and render it in different styles. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?logo=javascript&logoColor=white&style=flat)&nbsp;![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat) | [Repo](https://github.com/Prem-099/FontFinder) |
-| **Cultural-Fest-Management** | A terminal based cultural Fest Management program | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | [Repo](https://github.com/Prem-099/Cultural-Fest-Management-) |
+| **Filex** | A terminal based file manager | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) | [Repo](https://github.com/Prem-099/filex) |
 
 
 ---
